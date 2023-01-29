@@ -1,6 +1,6 @@
-# Not GPT2
+# Not GPT
 
-Project to replicate the GPT-2 architecture using PyTorch.
+Project to replicate a GPT-inspired architecture using PyTorch.
 
 ## Explanation of NotAttnBlock class:
 
